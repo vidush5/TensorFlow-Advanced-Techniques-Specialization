@@ -1,2 +1,1 @@
-# TensorFlow-Advanced-Techniques-Specialization
-Four Courses Specialization in Tensorflow: Advanced Techniques 
+![](https://github.com/vidush5/TensorFlow-Advanced-Techniques-Specialization/blob/main/image_01.jpeg) 
