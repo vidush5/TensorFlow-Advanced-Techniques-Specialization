@@ -13,3 +13,17 @@ This courses introduces you how to build models using keras Functional API. It h
 - Branching & Merging models
 - Siamese Network
 - Euclidean Distance
+
+#### Week 2: Custom Loss Function
+
+- Creating a custom loss function
+- Huber Loss
+- Implementing Huber Loss Using Python
+- Turing loss functions into classes
+- Contrastive Loss
+
+#### Week 3: Custom lambda layers
+
+
+
+
